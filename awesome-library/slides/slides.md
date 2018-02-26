@@ -35,12 +35,10 @@ Graham Murray
 ## Generate some components
 
 ```cmd
-> ng g component round-image --no-spec --is --it --flat
-> ng g component awesome-image --no-spec --is --it --flat
+> ng g component round-image --no-spec
+> ng g component awesome-image --no-spec
 ```
 * --no-spec: skip emitting testing file.
-* --is: (--inline-style) prevents generation of a separate file for the style.
-* --it: (--inline-template) prevents generation of a separate file for the template.
 
 ---
 

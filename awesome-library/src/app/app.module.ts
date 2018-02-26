@@ -5,7 +5,7 @@ import { NgModule } from '@angular/core';
 import { AppComponent } from './app.component';
 import { RoundImageModule } from '../components/round-image.component';
 import { AwesomeImageModule } from '../components/awesome-image.component';
-
+import { StarImageModule } from '../components/star-image.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +14,8 @@ import { AwesomeImageModule } from '../components/awesome-image.component';
   imports: [
     BrowserModule,
     RoundImageModule,
-    AwesomeImageModule
+    AwesomeImageModule,
+    StarImageModule
   ],
   providers: [],
   bootstrap: [AppComponent]
