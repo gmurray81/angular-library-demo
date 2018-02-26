@@ -10,6 +10,15 @@ Graham Murray
 
 ---
 
+## Who Am I?
+* Senior Architect at Infragistics
+    * (Makes UI components)
+* Author: [JavaScript and jQuery for Data Analysis And Visualization](https://www.amazon.com/JavaScript-jQuery-Data-Analysis-Visualization/dp/1118847067)
+* Transpiler creator and enthusiast.
+* Follow me on Twitter [@the_graham](https://twitter.com/the_graham)
+
+---
+
 ## What is Angular?
 
 ---
@@ -43,12 +52,6 @@ Graham Murray
 ---
 
 ## Let's Code!
-
----
-
-## Easing
-
-<img src="cubicinout.png" width="400" />
 
 ---
 
