@@ -33,7 +33,7 @@ Graham Murray
 ## Setting up the projects
 
 ```cmd
-> npm install @angular/cli
+> npm install @angular/cli -g
 > ng new awesome-library
 > ng new awesome-site
 > code awesome-library
@@ -48,6 +48,7 @@ Graham Murray
 > ng g component awesome-image --no-spec
 ```
 * --no-spec: skip emitting testing file.
+* Today, I'll use a snippet.
 
 ---
 
@@ -98,6 +99,14 @@ export * from './src/components/awesome-image.component';
 
 ```cmd
 > npm run build-lib
+```
+
+--
+
+```cmd
+> cd dist
+> npm cache clean
+> npm pack
 ```
 
 --
